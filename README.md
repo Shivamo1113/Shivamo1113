@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m shivam ojha— [Full‑stack developer]
 
-<!--
-**Shivamo1113/Shivamo1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: [Data sturcture]
+- 👯 I’m looking to collaborate on: [web dev projects]
+- 💼 Available for: [freelance]
+- 📫 How to reach me: ojhas1113@gmail.com | https://linkedin.com/in/shivam ojha 
 
-Here are some ideas to get you started:
+Skills
+- Languages: JavaScript, Python, C , C#
+- Frameworks: React, Node.js, .Net , bootstrap ,tailwind css
+- Strong base in Html and CSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stats & badges
+- ![GitHub followers](https://img.shields.io/github/followers/Shivamo1113?label=Follow&style=social)
