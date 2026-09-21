@@ -3,7 +3,7 @@ Hi, I’m shivam ojha— [Full‑stack developer]
 - 🌱 I’m currently learning: [Data sturcture]
 - 👯 I’m looking to collaborate on: [web dev projects]
 - 💼 Available for: [freelance]
-- 📫 How to reach me: ojhas1113@gmail.com | https://linkedin.com/in/shivam ojha 
+- 📫 How to reach me: ojhas1113@gmail.com | www.linkedin.com/in/shivam-ojha-073307345
 
 Skills
 - Languages: JavaScript, Python, C , C#
